@@ -44,8 +44,8 @@ Mapa=[3,4,4,0,4,4,3]
  | --- | ------- | ---------- | ------ | --- | ------ |
  | 1 | derecha | personaje, piso | [0,4] | [4,0] | Succesfull |
  | 2 | izquierda | piso, personaje | [4,0] | [0,4] | Succesfull |  
- | 3 | derecha | caja, piso | [0,1,4] | [4,0,1] | ToDo |
- | 4 | izquierda | caja, piso | [4,1,0] | [1,0,4] | ToDo |
+ | 3 | derecha | caja, piso | [0,1,4] | [4,0,1] | Done |
+ | 4 | izquierda | caja, piso | [4,1,0] | [1,0,4] | Done |
  | 5 | derecha | personaje, meta | [0,2] | [4,5] | ToDo |
  | 6 | izquierda | personaje, meta | [2,0] | [5,4] | ToDo |
  | 7 | derecha | personaje_meta,piso | [5,4] | [2,0] | ToDo |
@@ -68,5 +68,5 @@ Mapa=[3,4,4,0,4,4,3]
  | 24 | izquierda | personaje,caja_meta,piso | [4,6,0] | [1,5,4] | ToDo |
  | 25 | derecha | personaje_meta,caja_meta,meta | [5,6,2] | [2,5,6] | ToDo |
  | 26 | izquierda | personaje_meta,caja_meta,meta | [2,6,5] | [6,5,2] | ToDo |
- | 27 | derecha | personaje,caja,pared | [0,1,3] | [0,1,3] | ToDo |
- | 28 | izquierda | personaje, caja,pared | [3,1,0] | [3,1,0] | ToDo |
+ | 27 | derecha | personaje,caja,pared | [0,1,3] | [0,1,3] | Done |
+ | 28 | izquierda | personaje, caja,pared | [3,1,0] | [3,1,0] | Done |
