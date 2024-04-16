@@ -136,18 +136,18 @@ Ejemplo de movimientos Inicio y Fin:
 ### 6.5 **creacion de movimientos de abajo**
 | No. | Función | Kanban | Inicio | Fin | Fecha terminación |
 | --- | --- | --- | --- | --- | --- |
-| 41. | Personaje, espacio | - | [4][0] | [0][4] | 21-03-2024 |
-| 42. | Personaje, meta | - | [2][0] | [5][0] | 25/03/2024 |
-| 43. | Personaje, caja, espacio | - | [4][1][0] | [1][0][4] | 23/03/2024 |
-| 44. | Personaje, caja, meta | - | [2][1][0] | [6][0][4] | 05/04/2024 |
-| 45. | Personaje, caja_meta, espacio | - | [4][6][0] | [1][5][4] | 05/04/2024 |
-| 46. | Personaje, caja_meta, meta | - | [2][6][0] | [6][5][4] | 05/04/2024 |
+| 41. | Personaje, espacio | Done | [4][0] | [0][4] | 21-03-2024 |
+| 42. | Personaje, meta | Done | [2][0] | [5][0] | 25/03/2024 |
+| 43. | Personaje, caja, espacio | Done | [4][1][0] | [1][0][4] | 23/03/2024 |
+| 44. | Personaje, caja, meta | Done | [2][1][0] | [6][0][4] | 05/04/2024 |
+| 45. | Personaje, caja_meta, espacio | Done | [4][6][0] | [1][5][4] | 05/04/2024 |
+| 46. | Personaje, caja_meta, meta | Done | [2][6][0] | [6][5][4] | 05/04/2024 |
 | 47. | Personaje_meta, espacio | Done | [4][5] | [5][4] | 24/03/2024 |
 | 48. | Personaje_meta, meta | Done | [2][5] | [5][2] | 2/03/2024 |
-| 49. | Personaje_meta, caja, espacio | - | [4][1][5] | [1][0][2] | 10/04/2024 |
-| 50. | Personaje_meta, caja, meta | - | [2][1][5] | [6][0][2] | 5/04/2024 |
-| 51. | Personaje_meta, caja_meta, espacio | - | [4][6][5] | [1][5][2] | 10/04/2024 |
-| 52. | Personaje_meta, caja_meta, meta | - | [2][6][5] | [6][5][2] | 5/04/2024 |
+| 49. | Personaje_meta, caja, espacio | Done | [4][1][5] | [1][0][2] | 10/04/2024 |
+| 50. | Personaje_meta, caja, meta | Done | [2][1][5] | [6][0][2] | 5/04/2024 |
+| 51. | Personaje_meta, caja_meta, espacio | Done | [4][6][5] | [1][5][2] | 10/04/2024 |
+| 52. | Personaje_meta, caja_meta, meta | Done | [2][6][5] | [6][5][2] | 5/04/2024 |
 ### 6.6 Determina si se completo el nivel
 
 Está función determina si todas las cajas estan en una meta, cuando esto sucede se debe cargar el siguiente nivel de juego.
